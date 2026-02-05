@@ -2,6 +2,9 @@
 
 **ShopperDNA** is a sophisticated analytics engine that transforms raw e-commerce transaction data into actionable customer intelligence. By leveraging advanced SQL window functions and RFM (Recency, Frequency, Monetary) analysis, it identifies high-value "Champions" and "At Risk" customers.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gubbalamanasa30/ShopperDNA-Intelligence)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=gubbalamanasa30/ShopperDNA-Intelligence&branch=master&mainModule=app.py)
+
 ![ShopperDNA Dashboard](assets/rfm_scatter.png)
 
 ## 🚀 Features

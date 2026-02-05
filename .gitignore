@@ -3,5 +3,6 @@ __pycache__/
 ecommerce.db
 rfm_results.csv
 *.png
+!assets/*.png
 run_dashboard.bat
 .gemini/
