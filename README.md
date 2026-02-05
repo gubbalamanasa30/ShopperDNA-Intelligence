@@ -4,7 +4,7 @@
 
 ## 🔴 Live Demo
 > **[Click here to Launch the Interactive Dashboard](https://shopperdna-intelligence-hrhlebejwykwvpwpbqvrbv.streamlit.app/)**
-![Dashboard](Dashboard_Tool.png)
+![Dashboard](assets/Dashboard_Tool.png)
 
 ## 🚀 Features
 
