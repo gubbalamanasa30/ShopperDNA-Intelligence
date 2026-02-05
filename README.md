@@ -4,7 +4,7 @@
 
 ## 🔴 Live Demo
 > **[Click here to Launch the Interactive Dashboard](https://shopperdna-intelligence-hrhlebejwykwvpwpbqvrbv.streamlit.app/)**
-
+![Dashboard](Dashboard_Tool.png)
 
 ## 🚀 Features
 
@@ -68,6 +68,9 @@ The dashboard provides deep dives into customer behavior:
 
 ### Segment Distribution
 ![Segments](assets/segment_distribution.png)
+
+### RFM Scatter
+![RFM](assets/rfm_scatter.png)
 
 *Distribution of customer base by segment. Note the significant portion of "At Risk" customers requiring re-engagement.*
 
