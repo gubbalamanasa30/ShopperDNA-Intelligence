@@ -1,0 +1,9 @@
+                     count      revenue
+customer_segment                       
+Champions              110  $574,925.26
+Loyal Customers        111  $561,168.44
+Potential Loyalists    107  $369,598.04
+At Risk                136  $361,387.17
+Needs Attention        121  $195,824.35
+Recent Customers        86  $137,412.95
+Lost Customers         122   $96,884.80

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ecommerce.db
+rfm_results.csv
+*.png
+run_dashboard.bat
+.gemini/
